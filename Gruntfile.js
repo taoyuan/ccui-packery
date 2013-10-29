@@ -85,6 +85,7 @@ module.exports = function (grunt) {
                 banner: '/***********************************************\n' +
                     '* CCUI Packery JavaScript Library\n' +
                     '* Authors: https://github.com/torworx/ccui-foundation/blob/master/README.md \n' +
+                    '* License: GPL v3\n' +
                     '* Compiled At: <%= grunt.template.today("yyyy-mm-dd HH:MM") %>\n' +
                     '***********************************************/\n'
             },
