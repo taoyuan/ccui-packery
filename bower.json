@@ -22,6 +22,6 @@
         "examples"
     ],
     "devDependencies": {
-        "packery": "~1.1.2"
+        "packery": "metafizzy/packery"
     }
 }
